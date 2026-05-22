@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simplistic TV Launcher</string>
+    <string name="lepsitv_label">Lepší.TV</string>
+    <string name="lepsitv_desc">Sledujte přes 150 televizních stanic. Užijte si online sledování, nahrávání a zpětné zhlédnutí.</string>
+    <string name="switch_to_complicated">Další Aplikace</string>
+    <string name="switch_to_default">Zpět na Lepší.TV</string>
+    <string name="search_hint">Hledat aplikaci...</string>
+    <string name="not_installed_title">Aplikace Lepší.TV není nainstalována</string>
+    <string name="not_installed_body">Pro sledování vysílání nainstalujte aplikaci Lepší.TV z Google Play.</string>
+    <string name="go_to_playstore">Nainstalovat z Google Play</string>
+    <string name="simulate_app">Spustit simulaci</string>
+    <string name="close">Zavřít</string>
+    <string name="no_apps_found">Nebyly nalezeny žádné aplikace</string>
+</resources>
